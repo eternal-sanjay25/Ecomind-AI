@@ -42,16 +42,16 @@ EcoMind AI takes 8 lifestyle inputs from the user and returns:
 ## Screenshots
 
 ### Dashboard
-![Dashboard](Screenshot/dashboard.png)
+![Dashboard](Screenshot/dashboard.jpg)
 
 ### What-If Simulator
-![What-If](Screenshot/what-if.png)
+![What-If](Screenshot/what-if.jpg)
 
 ### Action Plan
-![Action Plan](Screenshot/action-plan.png)
+![Action Plan](Screenshot/action-plan.jpg)
 
 ### Monthly Progress
-![Progress](Screenshot/progress.png)
+![Progress](Screenshot/progress.jpg)
 
 ---
 
