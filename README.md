@@ -12,11 +12,11 @@
 ## Live Demo
 
 > Clone the repo → run one command → open browser.
-> No cloud. No API key. No account needed.
+> No Cloud. No API key. No account needed.
 
 ```bash
-git clone https://github.com/yourusername/ecomind-ai.git
-cd ecomind-ai
+git clone https://github.com/eternal-sanjay25/Ecomind-AI.git
+cd Ecomind-AI
 python backend/main.py
 # Open http://localhost:8000
 ```
@@ -42,16 +42,16 @@ EcoMind AI takes 8 lifestyle inputs from the user and returns:
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ### What-If Simulator
-![What-If](screenshots/whatif.png)
+![What-If](screenshot/what-if.png)
 
 ### Action Plan
-![Action Plan](screenshots/actionplan.png)
+![Action Plan](screenshot/action-plan.png)
 
 ### Monthly Progress
-![Progress](screenshots/progress.png)
+![Progress](screenshot/progress.png)
 
 ---
 
@@ -302,12 +302,12 @@ EcoMind AI is an intelligent sustainability analytics system that quantifies an 
 
 ## Author
 
-**Eternal**
-2nd Year B.E. Computer Science & Engineering
+**Sanjay Mariavincent**
+2nd Year B.Tech. Artificial Intelligence & Data Science
 Kamaraj College of Engineering and Technology, Virudhunagar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=flat-square&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanjay-mariavincent-476733331)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=flat-square&logo=github)](https://github.com/eternal-sanjay25)
 
 ---
 
