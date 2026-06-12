@@ -302,11 +302,11 @@ EcoMind AI is an intelligent sustainability analytics system that quantifies an 
 
 ## Author
 
-**Eternal**
+**Sanjay Mariavincent**
 2nd Year B.E. Computer Science & Engineering
 Kamaraj College of Engineering and Technology, Virudhunagar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanjay-mariavincent-476733331)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=flat-square&logo=github)](https://github.com/yourusername)
 
 ---
