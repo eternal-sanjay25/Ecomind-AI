@@ -15,8 +15,8 @@
 > No cloud. No API key. No account needed.
 
 ```bash
-git clone https://github.com/yourusername/ecomind-ai.git
-cd ecomind-ai
+git clone https://github.com/eternal-sanjay25/Ecomind-AI.git
+cd Ecomind-AI
 python backend/main.py
 # Open http://localhost:8000
 ```
@@ -307,7 +307,7 @@ EcoMind AI is an intelligent sustainability analytics system that quantifies an 
 Kamaraj College of Engineering and Technology, Virudhunagar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanjay-mariavincent-476733331)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=flat-square&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=flat-square&logo=github)](https://github.com/eternal-sanjay25)
 
 ---
 
